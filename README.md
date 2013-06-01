@@ -1,4 +1,7 @@
-lakecraft
-=========
+<h1>lakecraft</h1>
 
-Lakecraft: Porting the Champlain Basin to Minecraft.
+<h3>Purpose</h3>
+<p>The Lakecraft Minecraft Mod will be a dynamic instrument to engage youth and adults in watershed education and a platform for gamifying big data on the Lake Champlain Basin.  It will teach users about watershed science, such as hydrology, human impacts on ecosystem health, and land use dynamics.  Lakecraft will be an ever-evolving modifiable platform for institutions, the education community, and individuals to layer scientific data and replicate/modify real world features in a sandbox game environment.  Its initial prototyping and launch will be through the ECHO Lake Aquarium and Science Center, where it will be used in a facilitated setting with a longer term vision of integration into ECHO's public exhibits and wider distribution throughout the education community. Lakecraft's development will also serve as a model for other watersheds or bioregions to use gaming to engage youth about their local environments.</p>
+
+<h3>Features</h3>
+<p>Lakecraft is creating a custom modification to Minecraft by mapping real world terrain data from Google Earth of the Lake Champlain Basin watershed (http://www.minecraftforum.net/topic/992750-mapping-using-real-world-terrain-data/).  This topography will lay the foundation for further layering of available bioregional data, such as land cover, sub-basins, and bathymetry, and 3D modeling of regional points-of-interest, such as towns, shipwrecks, lake monsters etc., (http://www.patrickmin.com/minecraft/).</p>
